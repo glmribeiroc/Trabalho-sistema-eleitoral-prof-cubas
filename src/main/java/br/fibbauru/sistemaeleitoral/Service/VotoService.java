@@ -31,9 +31,6 @@ public class VotoService {
             throw new IllegalArgumentException("Eleitor não foi encontrado");
         }
 
-        String t = votoRequest.tituloEleitor();
-        String t2 = eleitor.getTituloEleitor();
-
         if (!votoRequest.tituloEleitor().equals(eleitor.getTituloEleitor())) {
             System.out.println(votoRequest.tituloEleitor() + " " + eleitor.getTituloEleitor());
             throw new IllegalArgumentException("Titulo de eleitor invalido");
