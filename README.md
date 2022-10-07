@@ -1,3 +1,3 @@
-## GRUPO
-# Guilherme Ribeiro Costa
-# João Vittor Pretto
+# GRUPO
+## Guilherme Ribeiro Costa
+## João Vittor Pretto
